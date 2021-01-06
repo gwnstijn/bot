@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "github:discordjs/opus",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.9.3",
     "chartjs-node-canvas": "^3.0.6",
     "commando-provider-mongo": "^1.1.1",
